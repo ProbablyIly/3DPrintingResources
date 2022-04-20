@@ -1,4 +1,6 @@
-Welcome to my repository! I intend to compile and summarise a variety of 3D Printing related things. It will primarily revolve around FDM and DLP. If you have any suggestions or additions, feel free to message me!
+Welcome to my repository! I intend to compile and summarise a variety of 3D Printing related things. It will primarily revolve around FDM and DLP.
+
+This is still a WIP and is constantly being updated. If you have any feedback, suggestions, additions or corrections absolutely feel free to message me!
 
 # Table of Contents
 - [Hardware](https://github.com/KingofDelusion/3DPrintingResources#hardware)
