@@ -2,6 +2,13 @@ Welcome to my repository! I intend to compile and summarise a variety of 3D Prin
 
 # Table of Contents
 - [Hardware](https://github.com/KingofDelusion/3DPrintingResources#hardware)
+  - [3D Printers](https://github.com/KingofDelusion/3DPrintingResources#3d-printers)
+    - [FDM](https://github.com/KingofDelusion/3DPrintingResources#fdm) 
+      - [Open Source](https://github.com/KingofDelusion/3DPrintingResources#open-source)
+  - [DLP](https://github.com/KingofDelusion/3DPrintingResources#dlp)
+  - [Add-ons and Mods](https://github.com/KingofDelusion/3DPrintingResources#add-ons-and-mods)
+  - [Multi-Material](https://github.com/KingofDelusion/3DPrintingResources#multi-material)
+  - [Miscellaneous](https://github.com/KingofDelusion/3DPrintingResources#miscellaneous)
 - [Software](https://github.com/KingofDelusion/3DPrintingResources#software)
 - [Materials](https://github.com/KingofDelusion/3DPrintingResources#materials)
 - [Resources](https://github.com/KingofDelusion/3DPrintingResources#resources)
