@@ -71,6 +71,7 @@ Welcome to my repository! I intend to compile and summarise a variety of 3D Prin
   ## Slicers
 
   ## Model Sharing
+  - [PrintABrick](https://github.com/hubnedav/PrintABrick) - A repository of 3D printable Lego Bricks.
   
   ## Utility
   - [OctoPrint](https://octoprint.org/) - OctoPrint is a web interface for controlling FDM Printers remotely. It's usually hosted on a local Raspberry Pi, although it can be hosted on Android, Linux, Windows and MacOS.
