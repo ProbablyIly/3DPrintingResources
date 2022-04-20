@@ -23,8 +23,11 @@ Welcome to my repository! I intend to compile and summarise a variety of 3D Prin
    - [EVA](https://eva-3d.github.io/eva-spec/)
    - [White Knight](https://github.com/NAK3DDesigns/White-Knight) - White Knight is a 45 degree belt printer.
    - [SnakeOil XY](https://github.com/SnakeOilXY/SnakeOil-XY) - SnakeOil is an affordable, small CoreXY printer.
-   - [HevORT](http://docs.hevort.com/#%2Fpages%2Fhome=) - A big CoreXY printer.
-
+   - [HevORT](http://docs.hevort.com/#%2Fpages%2Fhome=) - A big CoreXY printer with a self levelling 3 point bed.
+   - [Annex Engineering](https://github.com/Annex-Engineering) - A line of open source CoreXY printers that utilise a very unique motion system.
+      - [Masherbrum K1](https://github.com/Annex-Engineering/Masherbrum-K1) - The K1 is a Medium, Direct Drive, fully enclosed 3D printer. It uses an unconventional XY motion system inspired by the "Hypercube Overkill Project". The build volume can be between 200mm^3 to 500mm^3 and the Z axis can theoretically be up to 1 metre tall. The gantry moves while the bed is stationary.
+      - [Chhogori K2](https://github.com/Annex-Engineering/Chhogori-K2) - Very similar to the K1 but with a minimum build volume of 250^3 (still up to 500^3) but with a moving bed and a fixed gantry. 
+      - [Gasherbrum K3](https://github.com/Annex-Engineering/Gasherbrum-K3) - The K3 is incredibly similar to the K2 but smaller and more compact. The build volume is 180^3.
 
 
    ### DLP
