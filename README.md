@@ -62,6 +62,7 @@ This is still a WIP and is constantly being updated. If you have any feedback, s
   - [Official GitHub Repo](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods)/[Voronmods](https://faked.org/voronmods/)/[TeamFDM](https://www.teamfdm.com/files/category/2-printable-voron-user-mods/#:~:text=Voron%20User%20Mods%2C%20or%20%22UserMods,0%20Licensing.) - Sites and repositories containing mods and add-ons for the Voron lineup of printers.
   - [EVA](https://eva-3d.github.io/eva-spec/) - EVA is a modular standard for easily replacable 3D printer parts that aims to allow to easily swap parts for quick testing and experimentation.
   - [Voron to EVA](https://github.com/majarspeed/Voron-EVA-conversion) This is a conversion mod that converts a Voron printer to be EVA compatible.
+  - [Double Dragon](https://github.com/zruncho3d/double-dragon) - An IDEX upgrade to the Voron v0
   
    ### Multi-Material
    - [Enraged Rabbit Project](https://github.com/EtteGit/EnragedRabbitProject) - A multi-material filament switcher for Direct Drive toolheads and printers running Klippr. Primarily made for the Voron printers but it is compatible with any printers that fit the above requirements.
@@ -99,6 +100,7 @@ This is still a WIP and is constantly being updated. If you have any feedback, s
 # Materials
 
 # Resources
+- [Voron Colour Configurator](https://www.3dprinter-color-configurator.com/) - A tool to help you visualise and configure your Voron setup.
 
 # Terminology
 
