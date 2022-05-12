@@ -51,6 +51,9 @@ This is still a WIP and is constantly being updated. If you have any feedback, s
    - [mini one](https://www.thingiverse.com/thing:3749961) - The mini one is a redundantly small 3D printer with a magnificently small bed size of 45x45x40mm.
    - Snappy RepRap [Thingiverse](https://www.thingiverse.com/thing:2780361) or [GitHub](https://github.com/revarbat/snappy-reprap/wiki/v3.0-Home) - is a Snap together 3D Printer that uses mostly 3D printed parts.
    - Tripteron [Thingiverse](https://www.thingiverse.com/thing:1903757) or [YouTube](https://www.youtube.com/c/Propter/featured) - A brilliantly silly concept for a new and innovative motion system.
+   - [X-SCARA](https://github.com/madl3x/x-scara) - An open source SCARA 3D Printer
+   - [Positron](https://youtu.be/ZAPaOevoeX0) - An upside down, foldable and portable 3D Printer. It can fit inside a box of filament when closed. Not yet released.
+   - 
 
 
    ### DLP
@@ -76,6 +79,8 @@ This is still a WIP and is constantly being updated. If you have any feedback, s
   - [FreeLoader](https://www.creativemachineslab.com/freeloader.html) - An OpenSource material testing rig, it can apply tensile and compression loads.
   
   - [Prusa i3 Parts](https://github.com/prusa3d/Original-Prusa-i3) - STL Files for the printed parts of the Prusa i3.
+  - [3D Printed Pulleys](https://www.thingiverse.com/thing:16627)
+  - [2-in-1 Fan Duct](https://www.thingiverse.com/thing:839620)
 
 # Software
 
