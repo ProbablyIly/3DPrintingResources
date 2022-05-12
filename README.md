@@ -53,7 +53,7 @@ This is still a WIP and is constantly being updated. If you have any feedback, s
    - Tripteron [Thingiverse](https://www.thingiverse.com/thing:1903757) or [YouTube](https://www.youtube.com/c/Propter/featured) - A brilliantly silly concept for a new and innovative motion system.
    - [X-SCARA](https://github.com/madl3x/x-scara) - An open source SCARA 3D Printer
    - [Positron](https://youtu.be/ZAPaOevoeX0) - An upside down, foldable and portable 3D Printer. It can fit inside a box of filament when closed. Not yet released.
-   - 
+   - [6 Axis Robotic Arm 3D Printer](https://www.thingiverse.com/thing:3846234) - An Inverse Kinematic based 6 axis robot arm printer
 
 
    ### DLP
