@@ -54,7 +54,7 @@ This is still a WIP and is constantly being updated. If you have any feedback, s
    - [X-SCARA](https://github.com/madl3x/x-scara) - An open source SCARA 3D Printer
    - [Positron](https://youtu.be/ZAPaOevoeX0) - An upside down, foldable and portable 3D Printer. It can fit inside a box of filament when closed. Not yet released.
    - [6 Axis Robotic Arm 3D Printer](https://www.thingiverse.com/thing:3846234) - An Inverse Kinematic based 6 axis robot arm printer
-
+   - [Printers for Ants](https://3dprintersforants.com/) - A collection of 3D printers and 3D printer modifications that are small and compact
 
    ### DLP
    
